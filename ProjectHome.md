@@ -1,0 +1,1 @@
+Lists all API's used by http://ubaid.tk
